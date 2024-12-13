@@ -13,4 +13,4 @@
 因覆盖作业记录、补交老师没批改导致的平时分丢失，与本人无关。 本脚本仅供交流学习之用，请勿用于补交作业。
 
 # 建议
-建议按时交作业，使用(新海天作业通知机)[https://love.nimisora.icu/homework-notify/]避免忘交作业
+建议按时交作业，使用(新海天作业通知机)[https://love.nimisora.icu/homework-notify]避免忘交作业
